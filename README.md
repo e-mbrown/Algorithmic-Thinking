@@ -82,7 +82,7 @@ Look to see if you can trim fat or combine steps. Consider how your code would r
 > Input: piles = [9,8,7,6,5,1,2,3,4]
 > Output: 18
  
-###The solution
+### The solution
 <details>
 <summary>Version 1</summary>
 
@@ -149,7 +149,7 @@ Arrays and objects are by far the most important data types in algorithms
 
 [Array properties and methods](https://www.w3schools.com/jsref/jsref_obj_array.asp)
 
-[Object properties and methods] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+[Object properties and methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 
 ### The Problem
 >A store wants to analyze their order data to figure out how many of their customers are repeat customers. Orders can have a status of fulfilled, unfulfilled, cancelled, and returned.  They only want to consider customers that have fulfilled orders. Using the provided data, calculate what percentage of their customers with fulfilled orders are repeat customers.
