@@ -144,7 +144,7 @@ Completes in 212 ms
 ## Understanding data manipulation
 Data manipulation is the ability to read, update, and change type of data to identify important information, sort it, and format it as needed.  Understanding the rules and tools of each data type are essential.
 
-###Meet the superstars
+###Our Featured Players
 Arrays and objects are by far the most important data types in algorithms
 
 [Array properties and methods](https://www.w3schools.com/jsref/jsref_obj_array.asp)
